@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "ionic-vue-examples",
+  "appName": "ionic-vue-modal",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "dist",
